@@ -17,3 +17,4 @@ def healthcheck(Pipeline p) {
            }
        }
    }
+}
