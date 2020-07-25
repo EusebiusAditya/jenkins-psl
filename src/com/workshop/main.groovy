@@ -2,12 +2,11 @@
 package com.workshop
  
 import com.workshop.Config
-import com.workshop.stage.*
+import com.workshop.stages.*
  
 def main(script) {
    // Object initialization
    c = new Config()
-    
    sprebuild = new prebuild()
 
    // Pipeline specific variable get from injected env
